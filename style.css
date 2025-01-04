@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
+    
 }
 
 body {
@@ -19,6 +20,18 @@ h1 {
     display: block;
 }
 
+.h1 {
+    color: #ff00aa;
+    display: block;
+    padding-left: 80px;
+}
+
+h2 {
+    color: #0046c2;
+    display: block;
+    padding-left: 80px;
+}
+
 p {
     color: #ff00aa;
     font-size: 24px;
@@ -26,6 +39,8 @@ p {
     margin-bottom: 32px;
     line-height: 1.6;
     display: block;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .inner-div1 {
@@ -54,6 +69,7 @@ h3 {
     display: block;
     float: none;
     color: #ff00aa;
+    
 }
 
 .parent-container {
